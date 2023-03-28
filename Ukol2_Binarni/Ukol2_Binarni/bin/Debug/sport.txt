@@ -1,0 +1,3 @@
+1;Antonín;Štolfa;m;178;72
+2;Ondřej;Zelený;m;175;78
+3;David;Suchý;z;177;96

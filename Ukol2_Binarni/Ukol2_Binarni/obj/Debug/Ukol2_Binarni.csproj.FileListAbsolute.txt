@@ -1,0 +1,10 @@
+D:\Antonín Štolfa\PRG\C#\Ukol2_Binarni\Ukol2_Binarni\bin\Debug\Ukol2_Binarni.exe.config
+D:\Antonín Štolfa\PRG\C#\Ukol2_Binarni\Ukol2_Binarni\bin\Debug\Ukol2_Binarni.exe
+D:\Antonín Štolfa\PRG\C#\Ukol2_Binarni\Ukol2_Binarni\bin\Debug\Ukol2_Binarni.pdb
+D:\Antonín Štolfa\PRG\C#\Ukol2_Binarni\Ukol2_Binarni\obj\Debug\Ukol2_Binarni.csproj.AssemblyReference.cache
+D:\Antonín Štolfa\PRG\C#\Ukol2_Binarni\Ukol2_Binarni\obj\Debug\Ukol2_Binarni.Form1.resources
+D:\Antonín Štolfa\PRG\C#\Ukol2_Binarni\Ukol2_Binarni\obj\Debug\Ukol2_Binarni.Properties.Resources.resources
+D:\Antonín Štolfa\PRG\C#\Ukol2_Binarni\Ukol2_Binarni\obj\Debug\Ukol2_Binarni.csproj.GenerateResource.cache
+D:\Antonín Štolfa\PRG\C#\Ukol2_Binarni\Ukol2_Binarni\obj\Debug\Ukol2_Binarni.csproj.CoreCompileInputs.cache
+D:\Antonín Štolfa\PRG\C#\Ukol2_Binarni\Ukol2_Binarni\obj\Debug\Ukol2_Binarni.exe
+D:\Antonín Štolfa\PRG\C#\Ukol2_Binarni\Ukol2_Binarni\obj\Debug\Ukol2_Binarni.pdb
