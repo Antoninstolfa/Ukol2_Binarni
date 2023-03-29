@@ -35,7 +35,7 @@ namespace Ukol2_Binarni
                 int hmotnost = Convert.ToInt32(deleni[5]);
                 zapisovac.Write(osc + jmeno + prijmeni + pohlavi + vyska + hmotnost + "\n");
             }
-
+            ctenar.Close();
             datovytok.Close();
         }
         private void button1_Click(object sender, EventArgs e)
@@ -51,7 +51,6 @@ namespace Ukol2_Binarni
                 i++;
             }
             datovytok.Close();
-            ctenar.Close();
         }
     }
 }
