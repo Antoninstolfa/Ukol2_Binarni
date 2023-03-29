@@ -33,7 +33,7 @@ namespace Ukol2_Binarni
                 char pohlavi = Convert.ToChar(deleni[3]);
                 int vyska = Convert.ToInt32(deleni[4]);
                 int hmotnost = Convert.ToInt32(deleni[5]);
-                zapisovac.Write(osc + jmeno + prijmeni + pohlavi + vyska + hmotnost + "\n");
+                zapisovac.Write(osc + jmeno + prijmeni + pohlavi + vyska + hmotnost);
             }
             ctenar.Close();
             datovytok.Close();
